@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Project 1: Azure Sentinel (SIEM) Home Lab</b>
-- <b>Project 2: Vulnerability Management with Nessus Home Lab</b>
-- <b>Project 3: Active Directory Home Lab</b>
+- <b>Project 1: Azure Sentinel (SIEM) Home Lab</b>(https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Project 2: Vulnerability Management with Nessus Home Lab</b>(https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Project 3: Active Directory Home Lab</b>(https://github.com/joshmadakor1/Sentinel-Lab)
  
 
 <h2>👨‍💻 Certifications</h2>
